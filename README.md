@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taha jemli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha jemli" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&to=taha.jemli@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="30" width="40" style="vertical-align: middle;" />
+<a href="mailto:taha.jemli1@gmail.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" width="30" height="30" style="vertical-align: middle;" />
 </a>
 <a href="https://stackoverflow.com/users/taha jemli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taha jemli" height="30" width="40" /></a>
 </p>
