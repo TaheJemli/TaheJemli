@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Taha Jemli</h1>
 <h3 align="center">A passionate FullStack Software Engineer Experienced in building robust and scalable web applications, with strong problem-solving skills.</h3>
 
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="300"
+    alt="Coding animation"
+  />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahejemli&label=Profile%20views&color=0e75b6&style=flat" alt="tahejemli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahejemli" alt="tahejemli" /></a> </p>
